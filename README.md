@@ -13,4 +13,4 @@
    - metadata: coming soon
 
 ### Use Cases
-- 
+- [Barcelona, Spain](https://www.bloomberg.com/news/articles/2020-08-05/an-urban-planner-s-trick-to-making-bike-able-cities)
