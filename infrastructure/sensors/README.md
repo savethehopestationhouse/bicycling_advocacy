@@ -29,7 +29,8 @@
       - Portland: 
            - https://www.portlandoregon.gov/transportation/article/660377
            - https://bikeportland.org/2019/10/11/new-blue-light-for-bike-riders-part-of-detection-research-project-306124
-   - ![Blue lights](../images/blue_light_detection_image.jpg)
+   ![Blue lights](../images/blue_light_detection_image.jpg =150x100)
+
 
 ### Technology
 - [iTeris](https://www.iteris.com/products/pedestrian-and-cyclist/smartcycle)
