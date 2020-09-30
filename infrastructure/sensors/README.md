@@ -1,4 +1,17 @@
 
+### Types of Loop Sensors
+- There are 3 types:
+   - car-activated
+      - large square
+      - bikes can only activate by situating bike over right edge
+      - doesn't work well for lighter bikes (e.g., carbon-fiber)
+   - bike-activated
+      - two-smaller loops
+      - bike symbol - bike places wheels on two lines in front and behind bike symbol
+   - dual-activated (both car and bike)
+      - large square with center "filled"
+      - bike places in center of square
+
 ### Loop Sensors in the Bay Area
 - Santa Clara - doesn't use push buttons
 - Mountain View - loops sensors break and it's difficult to check if they are; the only way is through community feedback
@@ -6,8 +19,8 @@
    - the bike symbol indicating a bike sensor is misleading as it was unintentionally used at intersections where there weren't any sensors
    - most progressive in Bay Area in terms of bike signal/sensor technology
 
-### Trends in loop sensors
-- Video sensors is what's the new technology that's getting used
+### Trends in sensors
+- Video sensors the new technology that's getting used
    - touchless
    - easier to debug, fix
 - blue lights to provide user feedback of sensor activation
