@@ -29,7 +29,7 @@
       - Portland: 
            - https://www.portlandoregon.gov/transportation/article/660377
            - https://bikeportland.org/2019/10/11/new-blue-light-for-bike-riders-part-of-detection-research-project-306124
-     <img src="../images/blue_light_detection_image.png" width="50%" height="50%" title="Blue light sensors">
+     <img src="../images/blue_light_detection_image.png" width="25%" height="25%" title="Blue light sensors">
 
 
 
