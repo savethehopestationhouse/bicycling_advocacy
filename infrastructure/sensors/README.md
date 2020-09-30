@@ -30,6 +30,8 @@
            - https://www.portlandoregon.gov/transportation/article/660377
            - https://bikeportland.org/2019/10/11/new-blue-light-for-bike-riders-part-of-detection-research-project-306124
    - ![Blue lights](../images/blue_light_detection_image.png){:height="50%" width="50%"}
+   - <img src="../images/blue_light_detection_image.png" width="25" height="25" title="Github Logo">
+
 
 
 ### Technology
