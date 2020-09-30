@@ -10,5 +10,5 @@
 - [VTA Bicycle Technical Guidelines](https://www.vta.org/sites/default/files/documents/vta_bicycle_technical_guidelines_complete.pdf)
    - this document was the first of its kind in the Bay Area and informed/educated cities in the Bay on how to build bike infrastructure
    - good resource to understand the requirements on the Bay's earlier bike lanes
-   - published in 2012; things have changed since then and it was already outdated at the time it was published
+   - things have changed since it was published
    - very good examples from various cities in the Bay area
