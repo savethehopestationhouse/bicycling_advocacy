@@ -35,4 +35,5 @@
 
 ### Technology
 - [iTeris](https://www.iteris.com/products/pedestrian-and-cyclist/smartcycle)
-     <img src="../images/iTeris_smartcycle_indicator.jpg" width="25%" height="25%" title="iTeris blue light sensor">
+
+<img src="../images/iTeris_smartcycle_indicator.jpg" width="25%" height="25%" title="iTeris blue light sensor">
