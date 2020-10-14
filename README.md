@@ -39,7 +39,9 @@ It is also known as the safety or rolling stop and as the "Idaho stop" (which al
    - 2014: the City of Aspen passed a Stop as Yield law
    - 2018: [SB18-144](https://leg.colorado.gov/bills/sb18-144) which provides recommended language for the Stop as Yield law, which each individual city or county may now adopt at its option; this is NOT a state law
       ```
-      The act permits a municipality or county to regulate the operation of bicycles approaching intersections with stop signs or illuminated red traffic control signals. Under a local regulation, a bicyclist approaching a stop sign must slow to a reasonable speed and, when safe to do so, may proceed through the intersection without stopping. A bicyclist approaching an illuminated red traffic control signal must stop at the intersection and, when safe to do so, may proceed through the intersection.
+      The act permits a municipality or county to regulate the operation of bicycles approaching intersections with stop signs or illuminated red traffic control signals. 
+      Under a local regulation, a bicyclist approaching a stop sign must slow to a reasonable speed and, when safe to do so, may proceed through the intersection without 
+      stopping. A bicyclist approaching an illuminated red traffic control signal must stop at the intersection and, when safe to do so, may proceed through the intersection.
       ```
 - Delaware:
    - 2017: Stop as Yield law enacted for the entire state
