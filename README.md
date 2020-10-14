@@ -21,7 +21,7 @@ https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=31039
 
 ## Laws
 ### Dutch Reach
-### Stop As Yield
+### Stop-As-Yield and Red-As-Stop
 #### Description
 Under a Stop as Yield law, when a cyclist approaches an intersection controlled by a stop sign, the cyclist must still stop if there is approaching cross-traffic with the right of way. However, if there is no approaching cross-traffic with the right of way, the cyclist is not required to stop, and may instead roll past the sign and enter the intersection. This is exactly how a yield sign works, which is why the law is called “Stop as Yield.”
 
