@@ -48,5 +48,14 @@ It is also known as the safety or rolling stop and as the "Idaho stop" (which al
 - Idaho: 
    - 1982: passed Stop as Yield and Red as Stop laws for the entire state
 - Oregon: 
-   - 2020: passed Stop as Yield law for the entire state
+   - 2020: passed Stop as Yield law for the entire state; [SB 998](https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2019orLaw0683.pdf)
+      ```
+      Permits person operating bicycle to enter intersection controlled by specified traffic control devices without stopping. 
+      Permits person operating bicycle to turn without stopping at intersection with specified traffic control devices. Creates 
+      offense of improper entry into intersection where traffic is controlled by stop sign. Punishes by maximum fine of $250. 
+      Creates offense of improper entry into intersection where traffic is controlled by flashing red signal. Punishes by maximum fine of $250.
+      ```
+   - Signed into law by Governor Kate Brown
+   - Supported by Rep. Smith Warner and Sen. Floyd Prozanski, the bill’s chief sponsor
+   - Additional context: https://bikeportland.org/2019/06/25/oregon-passes-law-to-allow-bike-riders-to-treat-stop-signs-as-yields-301829
 - To be updated
