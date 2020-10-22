@@ -18,3 +18,5 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 
 ## The Bicycle Transportation Plan
 The City Council adopted the 2015 Mountain View BTP Update on November 17, 2015.
+
+[table 2-2](../../../images/mv_btp_2015_fig2-2_bikeways-proposed.png)
