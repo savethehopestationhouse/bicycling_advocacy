@@ -1,14 +1,18 @@
 ## 2019 Highlights
 
 ### January
-- Safe Moves program
+- Safe Moves program - Safe Routes for School
    - federally funded Safe Moves program and program evaluation data
-   - BPAC comments
-      - critical that Safe Routes to School programming continue in Mountain View. 
-      - $46,000 allocated not enough; suggest Council consider allocating more funds to the effort, which should be a multi-pronged effort involving the CIP, data analysis, up to date maps, and both education and encouragement programs. 
-      - Parent participation and awareness of events increase student participation and mode share shifts, especially for younger grades.
+   - BPAC comments 
+      - $46,000 allocated not enough; suggest Council consider provide more, which should be a multi-pronged effort involving the CIP, data analysis, up to date maps, and both education and encouragement programs. 
+      - Parent participation and awareness increase student participation and mode share shifts, especially for younger grades.
       - Walking should be the target for younger children, and bicycling for middle and high school students. 
-      - Some consideration could be given to establishing a donation based MV education foundation or fund for safety education. How the data is presented needs to reflect limitations of the data. As possible, efforts should influence infrastructure improvements and vice versa. Bike rodeos and bike to school trains/pools should remain key activities
+      - Establish a donation based MV education foundation or fund for safety education. 
+      - Data presentation needs to reflect limitations of the data. 
+      - Bike rodeos and bike to school trains/pools should remain key activities
+- Community meetings: 
+   - City Code update to rules for operation of bicycles and transportation devices in the public right of way (Feb 13)
+   - Mountain View Transit Center Grade Separation & Access Project (Feb 20)
 
 ### February 27, 2019
 - **Pedestrian Master Plan Review** for updates for Fiscal Year 2020-21
