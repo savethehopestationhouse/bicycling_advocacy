@@ -25,14 +25,14 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 
 
 ## Major Projects in the Pipeline
-### - California/Escuela/Shoreline Complete Streets Study
+### California/Escuela/Shoreline Complete Streets Study
 - protected bike lanes on Shoreline and California
 
-### - Stevens Creek Trail Extension (to Mountain View High School)
+### Stevens Creek Trail Extension (to Mountain View High School)
 - This will be funded by Measure B - CIP working group meeting and VTA attends
 - VTA 
 
-### - Redesigned Caltrain Station
+### Redesigned Caltrain Station
 - bike/ped tunnel on Castro/Moffett doing under Central Expressway
 
 ### Shoreline Path Upgrade
@@ -50,7 +50,7 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 ### Castro Improvements
 - bike lanes on Castro between El Camino to California
 
-### - Shoreline Improvements - City + Google
+### Shoreline Improvements - City + Google
 #### Study 1: Google - safeway through north bayshore
 - funded by Google - they were interested in figuring out how to get their employees from the train station to Google by bike
 #### Study 2: safe mountain view + great streets mountain view - California/Escuela/Shoreline Complete Streets Study - deaths on California and Shoreline (and schools on Escuela)
@@ -61,27 +61,4 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 - some bus - runs down the middle of the street
 
 
-
-
-Study - project recommendations
-Design phase - can take a while (funding
-Designs to BPAC and Council at milestones - opportunities for input
-Then to council for approval
-Then have to find funding, go out to bid - this is often the bottleneck
-Implementation
-
-
-Sources of funding
-- Google
-- Measure B (VTA) - tax that's collected and allocated to cities; in February the court case was resolved and cities can use this money
-- Caltrans ATP funding
-- City money
-
-
-Education + Encouragement Funding - who gets that in Mountain View
-- does Mountain have a Safe Routes to School program - Safe Moves?  or Alta?
-
-Jennifer (Great Streets in Mountain View)
-- gave a presentation to seniors - how to walk/bike
-- Measure B
 
