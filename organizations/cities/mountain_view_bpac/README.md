@@ -20,3 +20,30 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 The City Council adopted the 2015 Mountain View BTP Update on November 17, 2015.
 
 [table 2-2](../../../images/mv_btp_2015_fig2-2_bikeways-proposed.png)
+
+
+## Major Projects in the Pipeline
+### California/Escuela/Shoreline Complete Streets Study
+- protected bike lanes on Shoreline and California
+
+### Steven Creek Trail Extension (to Mountain View High School)
+- This will be funded by Measure B
+
+### Redesigned Caltrain Station
+- bike/ped tunnel on Castro/Moffett doing under Central Expressway
+
+### Shoreline Path Upgrade
+- over Central Expressway and near the Caltrain tracks
+
+### El Camino Real 
+
+### Bike/Ped 101 Bridge at Shoreline
+
+### Study of Bike/Ped Crossing of Central Expressway (+ Caltrain tracks)
+- near or along the alignment of the Permanente Creek, near Farley on the north side and Escuela on the south side
+
+### Castro Improvements
+- bike lanes on Castro between El Camino to California
+
+### Dutch-style protected intersections at Shoreline/Montecito and Shoreline/Middlefield
+
