@@ -28,11 +28,11 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 ### - California/Escuela/Shoreline Complete Streets Study
 - protected bike lanes on Shoreline and California
 
-### Stevens Creek Trail Extension (to Mountain View High School)
+### - Stevens Creek Trail Extension (to Mountain View High School)
 - This will be funded by Measure B - CIP working group meeting and VTA attends
 - VTA 
 
-### Redesigned Caltrain Station
+### - Redesigned Caltrain Station
 - bike/ped tunnel on Castro/Moffett doing under Central Expressway
 
 ### Shoreline Path Upgrade
@@ -50,17 +50,17 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 ### Castro Improvements
 - bike lanes on Castro between El Camino to California
 
-### Shoreline Improvements - City + Google
-
-Study 1: Google - safeway through north bayshore
-Study 2: safe mountain view + great streets mountain view - California/Escuela/Shoreline Complete Streets Study - deaths on California and Shoreline (and schools on Escuela)
-   - 2012-2014 deaths - still don't have the bike lanes in 
+### - Shoreline Improvements - City + Google
+#### Study 1: Google - safeway through north bayshore
+- funded by Google - they were interested in figuring out how to get their employees from the train station to Google by bike
+#### Study 2: safe mountain view + great streets mountain view - California/Escuela/Shoreline Complete Streets Study - deaths on California and Shoreline (and schools on Escuela)
+- 2012-2014 deaths - still don't have the bike lanes in 
 - Dutch-style protected intersections at Shoreline/Montecito and Shoreline/Middlefield
 - protected bike lanes on Shoreline
 - bike/ped 101 bridge at Shoreline
 - some bus - runs down the middle of the street
-### Bike/Ped 101 Bridge at Shoreline
-- funded by Google - they were interested in figuring out how to get their employees from the train station to Google by bike
+
+
 
 
 Study - project recommendations
