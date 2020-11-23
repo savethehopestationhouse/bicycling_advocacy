@@ -19,6 +19,20 @@
    - **GOAL MOB-11**: Well-maintained transportation infrastructure
 - **Purpose**: to improve the bicycling environment in Mountain View by providing direction for future bicycle planning and meeting the guidelines of the California Active Transportation Program, the requirements of which are contained in Senate Bill 99 (Chapter 359, Statutes of 2013) and listed in Appendix F.
 
+### The 5 Es + Bikeway Classifications
+- Engineering
+   - Class I (multi-use): 15 miles
+   - Class II (bike lanes): 26.5 miles
+   - Class III (bike routes/bike boulevards): 10.7 miles/5.9 miles
+   
+- Encouragement
+   - tools such as bike maps, programs and events, such as Bike to Work Day, reward existing bicyclists and motivate more people to ride bicycles.
+- Education programs:
+   - These may be delivered in schools as bicycle skills programs, or provided at low or no cost to adults through non-profit organizations.
+- Enforcement programs:
+   - reinforce legal and respectful driving and bicycling.
+- Evaluation programs 
+   - provide a method for monitoring
 
 
 [table 2-2](../../../images/mv_btp_2015_fig2-2_bikeways-proposed.png)
