@@ -25,7 +25,7 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 
 
 ## Major Projects in the Pipeline
-### California/Escuela/Shoreline Complete Streets Study
+### - California/Escuela/Shoreline Complete Streets Study
 - protected bike lanes on Shoreline and California
 
 ### Stevens Creek Trail Extension (to Mountain View High School)
