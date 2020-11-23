@@ -12,3 +12,7 @@
 - Vision Zero: community meeting will be held on October 28; and staff tabling for Vision Zero will be conducted at the Spanish/English storytime and Bike Clinic at the Library on October 19 and the Monster Bash on October 26. (Please note that the Vision Zero community meeting date has since been changed to November 4.)
 - Safe Routes for Seniors workshop: sponsored by Stanford Health Care on October 15 
 
+### February 27, 2019
+- **Pedestrian Master Plan Review** for updates for Fiscal Year 2020-21
+   - B/PAC recommended considering requiring two separate curb cuts per curb return, adding more marked crosswalks, and eliminating driveway cuts where there are no longer
+driveways.
