@@ -55,3 +55,11 @@ Expressway.
 - CNC: meeting will be held at Bubb Elementary on September 25 and October 10; 
 - Vision Zero: community meeting will be held on October 28; and staff tabling for Vision Zero will be conducted at the Spanish/English storytime and Bike Clinic at the Library on October 19 and the Monster Bash on October 26. (Please note that the Vision Zero community meeting date has since been changed to November 4.)
 - Safe Routes for Seniors workshop: sponsored by Stanford Health Care on October 15 
+
+### October 20, 2019
+- Public comment:
+   - Thomas, a local boy scout, and his mother, Gilda Garreton, residents of Mountain View, asked about various topics related to bike safety, including rules about riding on
+sidewalks, biking through crosswalks, and riding against the flow of traffic.
+   - Jack Miller commented that he was disappointed that the previous commenters didn’t already have the information they requested via in-school educational programming.
+- Draft Downtown Lighting Study, Project 15-34
+- Vision Zero Action Plan
