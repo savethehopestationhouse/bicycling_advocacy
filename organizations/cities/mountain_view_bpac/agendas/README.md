@@ -13,11 +13,10 @@ Class 1 multi-use trail.
 #### VTA BPAC Update (July 10, 2019 Meeting)
 - The VTP 2050 will emphasize complete streets, but this process is for the analysis of air quality. 
 - The VTA BPAC also reviewed Measure B Capital Projects grant criteria. 
-- The Silicon Valley Bicycle Coalition requested a 5 point item be assignable to communities with high collision rates and low-income populations. At the VTA Board,
-there was a motion to increase that point allowance 10 points. Staff favors keeping it at 5.
+   - SVBC requested a 5 point item be assignable to communities with high collision rates and low-income populations. At the VTA Board, there was a motion to increase that point allowance 10 points. Staff favors keeping it at 5.
 
 #### Staff Comments
-- six AskMV requests in June and one in July. 
+- 6 AskMV requests in June, 1 in July. 
    - June topics: weed removal requests and intersection improvements, including the Montecito/Stierlin. Staff explained that the **City may do a buffered bike lane between Montecito and Middlefield.** 
    - one AskMV in July related to the Stevens Creek Trail on-ramp at Evelyn. Staff explained that there is a crossing option for bicyclists at the signal at
 Highway 85 and Evelyn Avenue that allows bicyclists to to actuate a push button to request a green ball. All other travel directions are stopped with a red light.
@@ -25,6 +24,9 @@ Highway 85 and Evelyn Avenue that allows bicyclists to to actuate a push button 
 Thursday Night Live (TNL), which featured mobility groups, and a Safe Routes to School bike rodeo kickoff. 
 
 #### BPAC Comments
+- Greg Unangst
+   - would like to encourage Sunnyvale to move forward with partnering with MV on the **Stevens Creek Trail extension project** 
+   - inquired about the Colony Street connection to the Permanente Creek Trail. 
+      - Staff explained that the Colony Street connection is now in the City's adopted Capital Improvment Program.
 
-     
 
