@@ -1,6 +1,6 @@
 ## 2019 Highlights
 
-### January
+### January 30, 2019
 - Safe Moves program - Safe Routes for School
    - federally funded Safe Moves program and program evaluation data
    - BPAC comments 
@@ -38,13 +38,18 @@ Expressway.
    - Finally, B/PAC supported moving forward with the Castro/Moffett/Central Intersection interim improvements; and, prioritizing a California Street Complete Street project with any discretionary funds available. The project was developed following a tragic pedestrian fatality, and commitment to the neighborhood to prioritize safety improvements. 
 - Staff announced a February 13th community meeting for the City Code update to rules for operation of bicycles and transportation devices in the public right of way, as well as a February 20th community meeting for the Mountain View Transit Center Grade Separation & Access Project
 
+### June 26, 2019
+- Public Comment
+   - Eric Stabell presented ideas for future bike paths for the Terra Bella area, including Permanente Creek Trail connections. He also expressed interest in a feasibility study for a tunnel underneath the 85 freeway to connect the Terra Bella area to Stevens Creek Trail and Moffett Boulevard (via the Ameswell path).
+- Scooter Share Pilot Program
+
 ### August 28, 2019
 - **Draft El Camino Real Streetscape Plan Report**
 - **Buffered bike lane between Montecito and Middlefield** - Staff said that the City may do this in response to an AskMV intersection improvement request
 - **Stevens Creek Trail extension project** - Greg Unangst would like to encourage a Sunnyvale to move forward with partnering with MV on the 
 - **Colony Street connection to the Permanent Creek Trail** - Staff said it's now in the City's adopted Capital Improvment Program.
 
-### September , 2019
+### September 25, 2019
 - 4 AskMV requests in September: infrastructure, curb ramps, pavement conditions, school traffic, and a collision.
 - El Camino Real Streetscape Plan: to be reviewed by City Council on October 1, 2019
 - CNC: meeting will be held at Bubb Elementary on September 25 and October 10; 
