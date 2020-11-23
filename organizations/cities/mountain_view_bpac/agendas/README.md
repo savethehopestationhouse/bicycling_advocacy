@@ -1,5 +1,14 @@
 ## 2019 Highlights
 
+### January
+- Safe Moves program
+   - federally funded Safe Moves program and program evaluation data
+   - BPAC comments
+      - critical that Safe Routes to School programming continue in Mountain View. 
+      - $46,000 allocated not enough; suggest Council consider allocating more funds to the effort, which should be a multi-pronged effort involving the CIP, data analysis, up to date maps, and both education and encouragement programs. 
+      - Parent participation and awareness of events increase student participation and mode share shifts, especially for younger grades.
+      - Walking should be the target for younger children, and bicycling for middle and high school students. 
+      - Some consideration could be given to establishing a donation based MV education foundation or fund for safety education. How the data is presented needs to reflect limitations of the data. As possible, efforts should influence infrastructure improvements and vice versa. Bike rodeos and bike to school trains/pools should remain key activities
 
 ### February 27, 2019
 - **Pedestrian Master Plan Review** for updates for Fiscal Year 2020-21
@@ -23,6 +32,7 @@ Shoreline/Villa vicinity work together as part of their future Work Plan tasks.
    - For FY 2022-23, the B/PAC was especially supportive of the El Camino Real projects, including adding pedestrian crossings, and installing cycle tracks. B/PAC also agreed with City Council's preference for prioritizing the Mayfield undercrossing (across Central Expressway) over the recently proposed Villa undercrossing across Caltrain and Central
 Expressway.
    - Finally, B/PAC supported moving forward with the Castro/Moffett/Central Intersection interim improvements; and, prioritizing a California Street Complete Street project with any discretionary funds available. The project was developed following a tragic pedestrian fatality, and commitment to the neighborhood to prioritize safety improvements. 
+- Staff announced a February 13th community meeting for the City Code update to rules for operation of bicycles and transportation devices in the public right of way, as well as a February 20th community meeting for the Mountain View Transit Center Grade Separation & Access Project
 
 ### August 28, 2019
 - **Draft El Camino Real Streetscape Plan Report**
