@@ -59,3 +59,9 @@ It is also known as the safety or rolling stop and as the "Idaho stop" (which al
    - Supported by Rep. Smith Warner and Sen. Floyd Prozanski, the bill’s chief sponsor
    - Additional context: https://bikeportland.org/2019/06/25/oregon-passes-law-to-allow-bike-riders-to-treat-stop-signs-as-yields-301829
 - To be updated
+
+## Bike Crashes
+### Involving a Car
+#### Nov 16, 2020: Menlo Park (Melville Ave at Middlefield Road)
+My son was riding his bike and got hit by a car on Monday, November 16, 2020 around 10am on the corner of Melville Avenue and Middlefield Road.  I rushed him to the ER and luckily, he got away with only a badly sprained wrist, a bad cut on his knee and some bruises on both legs. My son let me know that the driver helped pick up his bike, asked if he was ok and then left.  The driver never asked to call me or the police.  My son described the driver as a Caucasian male in his 60’s or 70’s, bald head, white beard and circular glasses.  My son also let me know that he drove the same car and color as my daughter which may have been a 2006 beige Honda Civic. There is an active police report so any and all information is helpful."
+Source: https://www.facebook.com/bikemenlopark/posts/3756089351096582
