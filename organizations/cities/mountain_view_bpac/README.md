@@ -14,7 +14,23 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 
 #### 2020-21 CIP
 
-## Comprehensive Modal Plan
+## [Comprehensive Modal Plan (aka AccessMV)](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=33305)
+#### Goal
+Provide a consistent vision for the City's multimodal transportation network. Building on more than thirty existing local and regional transportation plans and studies, AccessMV aims to identify the City's primary transportation network for all modes, and prioritize previously identified transportation improvement projects. 
+
+#### Outcome
+Proposed prioritization criteria have been developed to identify priority corridors and transportation projects in the City of Mountain View.
+
+#### Prioritization variables
+bicycle level of traffic stress
+pedestrian quality of service
+potential transit demand. 
+network overlaps inconsistencies, and gaps between the different plans and studies. 
+
+#### Community Outreach
+- Mountain View Bicycle/Pedestrian Advisory Committee (B/PAC) meeting on September 30, 2020
+- Virtual community meeting: October 22, 2020, members of the public provided proposed prioritization goals and criteria via a virtual community meeting 
+
 
 ## [2015 Bicycle Transportation Plan](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=18294)
 - The City Council adopted the 2015 Mountain View BTP Update on November 17, 2015.
