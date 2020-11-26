@@ -24,7 +24,7 @@ https://www.mountainview.gov/depts/pw/projects/capital_improvement_program.asp
 [table 2-2](../../../images/mv_btp_2015_fig2-2_bikeways-proposed.png)
 
 
-## Major Projects in the Pipeline
+## [Major Projects in the Pipeline](https://www.mountainview.gov/depts/pw/transport/transportation_planning/default.asp)
 ### California/Escuela/Shoreline Complete Streets Study
 - protected bike lanes on Shoreline and California
 
