@@ -6,7 +6,9 @@ https://nacto.org/publication/urban-street-design-guide/street-design-elements/l
 ## Road diet
 
 ### Key information from the US DOT Federal Highway Administration
-- Reference: https://safety.fhwa.dot.gov/road_diets/guidance/info_guide/
+- **Reference**: https://safety.fhwa.dot.gov/road_diets/guidance/info_guide/
+- **Contact**: Rebecca Crowe at rebecca.crowe@dot.gov, 202-507-3699
+- **Workshop (free)**: https://safety.fhwa.dot.gov/road_diets/resources/fhwasa16033-flyer.cfm
 
 #### 3.3.5 Average Daily Traffic (ADT)
 - The ADT provides a good first approximation on whether or not to consider a Road Diet conversion. 
