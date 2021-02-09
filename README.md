@@ -19,7 +19,7 @@ https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=31039
 - [Barcelona, Spain](https://www.bloomberg.com/news/articles/2020-08-05/an-urban-planner-s-trick-to-making-bike-able-cities)
 
 
-## Laws
+## Legislation
 ### Dutch Reach
 ### Stop-As-Yield and Red-As-Stop
 #### Description
